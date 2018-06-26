@@ -81,7 +81,6 @@ vector02 = [7,2];
 print(vectSubtract(vector01,vector02));
 #return = ERROR: Vectors are not of equal length.
 
-#Test 2 results as an error because of our specifications that two vectors of unequal lengths cannot be ran through the test.
 
 #TEST 3 Vectors of Equal Lengths
 vector01 = [5,3,1];
@@ -118,16 +117,12 @@ vector = [5,7,1];
 print(scalarVecMulti(scalar,vector));
 
 
-#Test 1 provides a valid output because it follows our specifications.
 
 #Test 2 Vector and Scalar <two ways with code>
 #vector = [5,5,2];
 #scalar = 3;
 #print(scalarVecMulti(scalar,vector));
-#NO RETURN
 #print(scalarVecMulti(vector,scalar));
-#ERROR
-
 
 
 #problem 4
