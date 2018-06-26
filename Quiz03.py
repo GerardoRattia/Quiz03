@@ -1,3 +1,6 @@
+#Gerardo Rattia
+#Math 4330 - Quiz03
+
 #Problem 1
 def dot(vector01, vector02):
     """
